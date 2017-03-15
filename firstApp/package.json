@@ -1,0 +1,9 @@
+{
+  "name": "my-first-app",
+  "author": "Norman Chan",
+  "private": false,
+  "version": "1.0.0",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
