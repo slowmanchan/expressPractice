@@ -1,0 +1,17 @@
+{
+  "name": "guest-book",
+  "version": "1.0.0",
+  "description": "express guest book",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
